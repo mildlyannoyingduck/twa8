@@ -1,0 +1,6 @@
+{
+  "name": "BioScholar 2027",
+  "description": "Personalized G.C.E. A/L Biology study timetable, paper marks analytics, daily task tracker, exam countdown, and focus blocker for Risinu Kithnuka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "com.risinu.thisweek",
+  "appName": "This Week",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#020614"
+  }
+}
